@@ -61,7 +61,7 @@ Add additional notes about how to deploy this on a live system
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-* [ShinyApps] (https://s2016903.shinyapps.io/Survivor/)- Shiny Apps
+* [ShinyApps](https://s2016903.shinyapps.io/Survivor/)- Shiny Apps
 
 ## Contributing
 
